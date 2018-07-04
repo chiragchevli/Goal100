@@ -12,5 +12,5 @@
 
 > :wink: **Happy Gaming!** :wink:
 
-> [Play Now!](https://chiragchevli.github.io/projects/Color_game/ "Yayy!!")
+> [Play Now!](https://chiragchevli.github.io/projects/Goal100/ "Yayy!!")
 
