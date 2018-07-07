@@ -8,7 +8,8 @@
 - The player can choose to 'Hold', which means that his ROUND score gets added to his GLBAL score. After that, it's the next player's turn
 - The first player to reach 100 points on GLOBAL score wins the game!
 
-> Just Run "Index.html" 
+> I made this project as part of my Javascript course on Udemy :- [The Complete JavaScript Course 2018: Build Real Projects!](https://www.udemy.com/the-complete-javascript-course/)
+
 
 > :wink: **Happy Gaming!** :wink:
 
